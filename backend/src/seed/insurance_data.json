@@ -1,0 +1,306 @@
+[
+    {
+        "policyNumber": "IN-1001",
+        "name": "Amit Verma",
+        "age": 35,
+        "insuranceType": "Health",
+        "plan": "Silver Care Plus",
+        "premium": 12500,
+        "coverage": 500000,
+        "startDate": "2023-01-15",
+        "endDate": "2026-01-15",
+        "claims": [
+            {
+                "claimId": "CL-9001",
+                "date": "2024-06-10",
+                "amount": 23000,
+                "reason": "Appendix Surgery",
+                "status": "Settled"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1002",
+        "name": "Ritika Sharma",
+        "age": 42,
+        "insuranceType": "Life",
+        "plan": "SecureLife Pro",
+        "premium": 18500,
+        "coverage": 2000000,
+        "startDate": "2022-09-01",
+        "endDate": "2042-09-01",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1003",
+        "name": "Nikhil Joshi",
+        "age": 29,
+        "insuranceType": "Car",
+        "plan": "Auto Shield Basic",
+        "premium": 9500,
+        "coverage": 400000,
+        "startDate": "2024-01-01",
+        "endDate": "2025-01-01",
+        "claims": [
+            {
+                "claimId": "CL-9003",
+                "date": "2024-08-22",
+                "amount": 18500,
+                "reason": "Rear bumper replacement",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1004",
+        "name": "Priya Nair",
+        "age": 31,
+        "insuranceType": "Health",
+        "plan": "Gold Care Premium",
+        "premium": 15200,
+        "coverage": 800000,
+        "startDate": "2023-07-01",
+        "endDate": "2026-07-01",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1005",
+        "name": "Rahul Mehta",
+        "age": 38,
+        "insuranceType": "Life",
+        "plan": "LifeShield Advantage",
+        "premium": 22000,
+        "coverage": 2500000,
+        "startDate": "2020-02-15",
+        "endDate": "2040-02-15",
+        "claims": [
+            {
+                "claimId": "CL-9005",
+                "date": "2024-03-05",
+                "amount": 100000,
+                "reason": "Critical illness payout",
+                "status": "Settled"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1006",
+        "name": "Kiran Patil",
+        "age": 45,
+        "insuranceType": "Home",
+        "plan": "SafeHome Elite",
+        "premium": 7800,
+        "coverage": 1500000,
+        "startDate": "2023-05-20",
+        "endDate": "2026-05-20",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1007",
+        "name": "Sunita Rao",
+        "age": 54,
+        "insuranceType": "Health",
+        "plan": "Senior Care Max",
+        "premium": 19500,
+        "coverage": 700000,
+        "startDate": "2022-12-10",
+        "endDate": "2025-12-10",
+        "claims": [
+            {
+                "claimId": "CL-9007",
+                "date": "2024-02-14",
+                "amount": 48000,
+                "reason": "Cataract Surgery",
+                "status": "Settled"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1008",
+        "name": "Deepak Chawla",
+        "age": 33,
+        "insuranceType": "Travel",
+        "plan": "GoTravel Global",
+        "premium": 3400,
+        "coverage": 200000,
+        "startDate": "2025-01-05",
+        "endDate": "2025-07-05",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1009",
+        "name": "Ayesha Khan",
+        "age": 27,
+        "insuranceType": "Health",
+        "plan": "Silver Care Plus",
+        "premium": 8900,
+        "coverage": 400000,
+        "startDate": "2024-04-01",
+        "endDate": "2027-04-01",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1010",
+        "name": "Sandeep Singh",
+        "age": 40,
+        "insuranceType": "Car",
+        "plan": "Auto Shield Premium",
+        "premium": 11200,
+        "coverage": 600000,
+        "startDate": "2024-06-01",
+        "endDate": "2025-06-01",
+        "claims": [
+            {
+                "claimId": "CL-9010",
+                "date": "2025-01-11",
+                "amount": 35000,
+                "reason": "Windshield replacement",
+                "status": "Settled"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1011",
+        "name": "Manisha Deshmukh",
+        "age": 36,
+        "insuranceType": "Life",
+        "plan": "SecureLife Pro",
+        "premium": 17000,
+        "coverage": 1500000,
+        "startDate": "2021-03-10",
+        "endDate": "2041-03-10",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1012",
+        "name": "Sourabh Kulkarni",
+        "age": 30,
+        "insuranceType": "Bike",
+        "plan": "RideSafe Basic",
+        "premium": 3200,
+        "coverage": 150000,
+        "startDate": "2024-01-15",
+        "endDate": "2025-01-15",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1013",
+        "name": "Neha Kapoor",
+        "age": 28,
+        "insuranceType": "Health",
+        "plan": "Gold Care Premium",
+        "premium": 14000,
+        "coverage": 600000,
+        "startDate": "2023-11-01",
+        "endDate": "2026-11-01",
+        "claims": [
+            {
+                "claimId": "CL-9013",
+                "date": "2024-05-05",
+                "amount": 15000,
+                "reason": "Gallbladder treatment",
+                "status": "Settled"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1014",
+        "name": "Harshad Jain",
+        "age": 41,
+        "insuranceType": "Home",
+        "plan": "SafeHome Standard",
+        "premium": 6200,
+        "coverage": 1000000,
+        "startDate": "2023-09-10",
+        "endDate": "2026-09-10",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1015",
+        "name": "Anjali Thakur",
+        "age": 34,
+        "insuranceType": "Travel",
+        "plan": "GoTravel India",
+        "premium": 2100,
+        "coverage": 100000,
+        "startDate": "2025-02-01",
+        "endDate": "2025-05-01",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1016",
+        "name": "Vikas Pandey",
+        "age": 39,
+        "insuranceType": "Life",
+        "plan": "LifeShield Advantage",
+        "premium": 19500,
+        "coverage": 1800000,
+        "startDate": "2020-08-01",
+        "endDate": "2040-08-01",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1017",
+        "name": "Reena Das",
+        "age": 48,
+        "insuranceType": "Health",
+        "plan": "Senior Care Max",
+        "premium": 18200,
+        "coverage": 700000,
+        "startDate": "2022-10-10",
+        "endDate": "2025-10-10",
+        "claims": [
+            {
+                "claimId": "CL-9017",
+                "date": "2024-09-01",
+                "amount": 27000,
+                "reason": "Knee replacement",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1018",
+        "name": "Abhishek Yadav",
+        "age": 32,
+        "insuranceType": "Car",
+        "plan": "Auto Shield Basic",
+        "premium": 8800,
+        "coverage": 350000,
+        "startDate": "2024-03-01",
+        "endDate": "2025-03-01",
+        "claims": []
+    },
+    {
+        "policyNumber": "IN-1019",
+        "name": "Rohit Malhotra",
+        "age": 37,
+        "insuranceType": "Bike",
+        "plan": "RideSafe Plus",
+        "premium": 4100,
+        "coverage": 200000,
+        "startDate": "2024-07-01",
+        "endDate": "2025-07-01",
+        "claims": [
+            {
+                "claimId": "CL-9019",
+                "date": "2024-09-10",
+                "amount": 9500,
+                "reason": "Accidental damage repair",
+                "status": "Settled"
+            }
+        ]
+    },
+    {
+        "policyNumber": "IN-1020",
+        "name": "Shweta Tiwari",
+        "age": 29,
+        "insuranceType": "Health",
+        "plan": "Silver Care Plus",
+        "premium": 9700,
+        "coverage": 500000,
+        "startDate": "2024-05-01",
+        "endDate": "2027-05-01",
+        "claims": []
+    }
+]
